@@ -1,0 +1,10 @@
+SNAKE AND LADDER — BFS SHORTEST-PATH SOLVER
+Board: 1 to 100 | Die: 1 to 6
+Snakes: 8
+Ladders: 8
+
+Minimum dice throws: 7
+Route after snakes/ladders:
+1 -> 14 -> 16 -> 22 -> 84 -> 88 -> 94 -> 100
+
+Each arrow represents one dice throw, followed by any jump on the landing square.
